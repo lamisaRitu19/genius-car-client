@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Expert Team",
+        "img": "../src/assets/icons/group.svg"
+    },
+    {
+        "id": 2,
+        "name": "Timely Delivery",
+        "img": "../src/assets/icons/group.svg"
+    },
+    {
+        "id": 3,
+        "name": "24/7 Support",
+        "img": "../src/assets/icons/person.svg"
+    },
+    {
+        "id": 4,
+        "name": "Best Equipment",
+        "img": "../src/assets/icons/Wrench.svg"
+    },
+    {
+        "id": 5,
+        "name": "100% Guranty",
+        "img": "../src/assets/icons/check.svg"
+    },
+    {
+        "id": 6,
+        "name": "Timely Delivery",
+        "img": "../src/assets/icons/deliveryt.svg"
+    }
+]

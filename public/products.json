@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Car Engine Plug",
+        "price": "20",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/2gH9P4t/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Car Air Filter",
+        "price": "20",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/QYvXHWY/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Cools Led Light",
+        "price": "20",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/7NP1TSG/3.png"
+    },
+    {
+        "id": 4,
+        "name": "Cools Led Light",
+        "price": "20",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/HD9qrTS/4.png"
+    },
+    {
+        "id": 5,
+        "name": "Cools Led Light",
+        "price": "20",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/16c1nSs/5.png"
+    },
+    {
+        "id": 6,
+        "name": "Cools Led Light",
+        "price": "20",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://i.ibb.co/FxH6Qjw/6.png"
+    }
+]
